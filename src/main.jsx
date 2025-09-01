@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./index.css";
 import Layout from "./components/Layout";
-import Weather from "./pages/Weather";
+import Weather from "./pages/weather";
 import Country from "./pages/Country";
 import Nasa from "./pages/Nasa";
 import Crypto from "./pages/Crypto";
